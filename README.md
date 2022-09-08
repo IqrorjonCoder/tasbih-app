@@ -1,7 +1,7 @@
 # tasbih-app
 tasbih app
 
-you can see Tasbih App in https://github.com/IqrorjonAndroid/Tasbih too.
+## 
 
 I created the Tasbih app
 
